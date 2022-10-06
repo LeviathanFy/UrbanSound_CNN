@@ -9,4 +9,5 @@ Group: 43
 Team: monana
 
 Fatih Yıldırım fatih.yildirimhct@gmail.com
+
 Elif Altıntaş altintaselif97@hotmail.com 
